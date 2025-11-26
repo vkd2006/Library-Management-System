@@ -1,2 +1,17 @@
-# Library-Management-System
-If you like this project, don't forget to star ⭐ the repository!
+📘 Library Management System – Python
+
+A simple, clean, and functional Library Management System built using Python.
+This project manages books, tracks availability, allows issuing & returning of books, and stores data permanently using JSON.
+
+Perfect for beginners and internship-ready portfolios.
+
+🚀 Features
+
+Add new books
+View all books
+Issue book to a student
+Return book
+Track availability status
+Persistent storage using library.json
+Clean, modular & menu-driven code
+
